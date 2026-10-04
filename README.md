@@ -147,3 +147,12 @@ Star the repo if you find it useful!
 **Made for network engineers, security architects, DevOps teams, and infrastructure specialists.**
 
 Let's make cloud VPN and zero-trust access more open, transparent, and secure.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-VPN-Gateway&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-VPN-Gateway_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-VPN-Gateway_growth.svg">
+  </picture>
+</a>
