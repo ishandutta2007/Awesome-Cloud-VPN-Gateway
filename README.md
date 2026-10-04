@@ -60,9 +60,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 > **💡 Open-Source Advantage**: Modern open-source mesh VPNs and Zero Trust controllers (like **WireGuard**, **Headscale**, and **NetBird**) offer enterprise-grade cryptography, peer-to-peer speeds, and complete data sovereignty without per-user licensing fees.
 
-*Sorted by GitHub Star Count (descending). Badges link directly to stargazers pages.*
+*Sorted by GitHub Stars_Count (descending). Badges link directly to stargazers pages.*
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |---|---|---|
 | **[Headscale](https://github.com/juanfont/headscale)** — An open-source, self-hosted implementation of the Tailscale control server. BSD-3-Clause. | [![Stars](https://img.shields.io/github/stars/juanfont/headscale?style=social&color=white)](https://github.com/juanfont/headscale/stargazers) | ~25,000 |
 | **[Tailscale](https://github.com/tailscale/tailscale)** — WireGuard-based mesh VPN client and node agent for secure private networking. BSD-3-Clause. | [![Stars](https://img.shields.io/github/stars/tailscale/tailscale?style=social&color=white)](https://github.com/tailscale/tailscale/stargazers) | ~20,000 |
@@ -92,7 +92,7 @@ Thank you for visiting this repository! If you find this curated list helpful fo
 
 1. Fork the repository.
 2. Edit `README.md` following the table schema.
-3. Submit a Pull Request with details regarding pricing, free limits, or star counts.
+3. Submit a Pull Request with details regarding pricing, free limits, or Stars_Counts.
 
 ---
 
@@ -106,3 +106,12 @@ Thank you for visiting this repository! If you find this curated list helpful fo
 ## ⭐ Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cloud-VPN-Gateway&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cloud-VPN-Gateway&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-VPN-Gateway&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-VPN-Gateway_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-VPN-Gateway_growth.svg">
+  </picture>
+</a>
