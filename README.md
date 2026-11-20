@@ -53,6 +53,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 | **[Tailscale](https://tailscale.com/)** | Zero-config WireGuard mesh VPN with SSO/IdP authentication and MagicDNS. | **$6/user/month** (Starter Plan, billed annually) | **Permanently free Personal plan**: **up to 6 users** & unlimited devices | **Private (~$100M+ ARR est.)** |
 | **[OpenVPN Cloud](https://openvpn.net/)** | Cloud-delivered ZTNA and managed OpenVPN CloudConnexa network. | **$7/connector/month** (or $5/device/month) | **Permanently free** for **up to 3 connected devices** | **Private (~$50M+ revenue est.)** |
 | **[Twingate](https://www.twingate.com/)** | Next-gen ZTNA solution replacing corporate VPNs with granular access control. | **$5/user/month** (Teams Plan, billed annually) | **Permanently free Starter plan**: **5 users**, 1 admin, 10 resources | **Private (~$42M raised)** |
+| **[CloudWard](https://cloudward.net)** | Membership node subscription service. Self-operated nodes in Hong Kong, Tokyo, Los Angeles and London (Amsterdam temporarily paused); VLESS-Reality protocol; works with Mihomo/Clash Meta, sing-box, Shadowrocket and V2Ray-family clients. | **¥9.9/month** (trial plan, 70GB); main plan ¥22/month (200GB) | No free tier — paid membership only | Not disclosed |
 
 ---
 
